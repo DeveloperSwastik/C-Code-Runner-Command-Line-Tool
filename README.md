@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Logo Image" src="https://raw.githubusercontent.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/main/Images/C%20Code%20Runner%20Logo.png">
+</p>
+
 # C Code Runner {Command Line Utility}
 > _Current version of C Code Runner is 1.0 [Download Latest Version](https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download)__ 
 
