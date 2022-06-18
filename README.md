@@ -51,7 +51,7 @@ _Step 2: Reach the file location in CMD where **C_Code_Runner.exe** file is down
 _Step 3: Run the below command in CMD._
 
 ```
- CMD> c_code_runner.exe --run Start_process
+c_code_runner.exe --run Start_process
 ```
 
 _Step 4: Now you can delete the downloaded file._
@@ -75,7 +75,7 @@ _Step 5: Now you have to add **"C:\C Code Runner"** path to user environment var
 _Step 6: Verify installation, reopen CMD and run command given below._
 
 ```
-CMD> c_code_runner --about About
+c_code_runner --about About
 ```
 
 > _If it show the output similar to given below. Then congratulations **c_code_runner** utility is successfully installed in your machine._
@@ -114,48 +114,48 @@ _Step 2: Copy and paste the file in the directory where you are working and now 
 - _If you want to see help message. Use command given below and press enter._
 
 ```
-    CMD> c_code_runner --h
+c_code_runner --h
 ```
 
 - _For compile and execute c code. Use command given below and then and press enter._
 
 ```
-    CMD> c_code_runner --f input_file_name.c
+c_code_runner --f input_file_name.c
 ```
 
 - _For compile file with specific name by default it is of the same name of input file with .exe extension and then execute it. Use command given below and press enter._
 
 ```
-    CMD> c_code_runner --f input_file_name.c --o output_file_name.exe
+c_code_runner --f input_file_name.c --o output_file_name.exe
 ```
 
 - _For starting the setup process. Use the command given below and press enter._
 
 ```
-    CMD> c_code_runner --run Start_process
+c_code_runner --run Start_process
 ```
 
 - _If you want to get details about C Code Runner. Use command given below and press enter._
 
 ```
-    CMD> c_code_runner --about About
+c_code_runner --about About
 ```
 
 - _If you want to know the currently installed version of C Code Runner. Use the command given below and press enter.
 
 ```
-    CMD> c_code_runner --version
+c_code_runner --version
 ```
 > _Note 4: Above commands work in case of method first of setup._
 
 > _Note 5: If you are following method 2 then you have to just give relative path of **c_code_runner.exe** file to execute command if you copy paste the file in current working directory or else give absolute path to the **c_code_runner.exe** file to take use of it._
 
 ```
-    CMD> .\c_code_runner.exe /* commands */
-
-    or
-
-    CMD> %path%\c_code_runner.exe /* command */
+.\c_code_runner.exe --arguments
+```
+or
+```
+%path%\c_code_runner.exe --arguments
 ```
 
 ## Pre Requirements for C Code Runner [🔝](#table-of-contents)
