@@ -12,11 +12,10 @@
 - [How to Setup C Code Runner On Your Windows Machine](#how-to-setup-c-code-runner-on-your-windows-machine-)
   - [Method 1 {Recommended Method}](#method-1)
   - [Method 2](#method-2)
-- [Arguments By C Code Runner](#arguments-by-c-code-runner-)
+- [Arguments Pass to C Code Runner](#arguments-pass-to-c-code-runner-)
 - [How to Compile And Execute C File Using C Code Runner](#how-to-compile-and-execute-c-file-using-c-code-runner-)
 - [Pre Requirements for C Code Runner](#pre-requirements-for-c-code-runner-)
 - [C Code Runner All Versions Download Links](#c-code-runner-all-versions-download-links-)
-  - [Latest Version](#latest-version)
 
 ## About C Code Runner [🔝](#table-of-contents)
 
@@ -100,7 +99,7 @@ _Step 1: Download **C_Code_Runner.exe** file by clicking below download link._
 
 _Step 2: Copy and paste the file in the directory where you are working and now you can use the features of **C Code Runner** without any setup._
 
-## Arguments By C Code Runner [🔝](#table-of-contents)
+## Arguments Pass to C Code Runner [🔝](#table-of-contents)
 
 |Arguments      |Input                                             |Working                                                    |
 |---------------|--------------------------------------------------|-----------------------------------------------------------|
