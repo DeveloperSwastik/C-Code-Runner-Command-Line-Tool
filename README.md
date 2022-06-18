@@ -3,7 +3,7 @@
 </p>
 
 # C Code Runner {Command Line Utility}
-> _Current version of C Code Runner is 1.0 [Download Latest Version](https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download)__ 
+> _Current version of C Code Runner is 1.0 [Download Latest Version](https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download)_
 
 ## Table of Contents
 
