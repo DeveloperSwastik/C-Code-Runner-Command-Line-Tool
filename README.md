@@ -166,8 +166,8 @@ _Step 2: Copy and paste the file in the directory where you are working and now 
 
 ## C Code Runner All Versions Download Links [🔝](#table-of-contents)
 
-### Latest Version:
-<button><a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Latest Version</a></button>
+|Vesions         |Download Link                                                                                                                          |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|_Latest Version_|<button><a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Latest Version</a></button>|
+|_Version 1.0_   |<button><a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Version 1.0</a></button>   |
 
-### Version 1.0:
-<button><a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Version 1.0</a></button>
