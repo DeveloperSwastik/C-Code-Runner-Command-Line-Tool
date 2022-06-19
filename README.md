@@ -42,3 +42,7 @@ Single command instead of writing compilation and the execution command individu
 |------------------------------------------|----------------|--------------|--------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 |_Latest Version {Recommended to download}_|Bugfix          |2022-18-06    |2022-19-06                |-----------------|<a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">Download Latest Version</a>        |[Documntation](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki)                             |
 |_Version 1.0_                             |Bugfix          |2022-18-06    |2022-19-06                |-----------------|<a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">Download Version 1.0</a>           |[Version 1.0 Documentaion](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki/Version-1.0-Docs)|
+
+<p align="center">
+    <strong>|| © <a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">DeveloperSwastik</a> ||<strong>
+</p>
