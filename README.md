@@ -165,8 +165,7 @@ or
 
 ## C Code Runner All Versions Download Links [🔝](#table-of-contents)
 
-|Vesions         |Download Link                                                                                                                          |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|_Latest Version_|<button><a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Latest Version</a></button>|
-|_Version 1.0_   |<button><a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Version 1.0</a></button>   |
-
+|Vesions         | Release Date |Download Link                                                                                                                 |
+|----------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+|_Latest Version_|2022-18-06    |<a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Latest Version</a>        |
+|_Version 1.0_   |2022-18-06    |<a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Version 1.0</a>           |
