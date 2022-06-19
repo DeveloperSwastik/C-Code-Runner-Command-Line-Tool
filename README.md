@@ -3,7 +3,7 @@
 </p>
 
 # C Code Runner {Command Line Utility}
-> _Current version of C Code Runner is 1.0 [Download Latest Version](https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download)_
+> _Current version of C Code Runner is 1.0 [Download Latest Version](https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download)_
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
   - [Method 1 {Recommended Method}](#method-1)
   - [Method 2](#method-2)
 - [Arguments Pass to C Code Runner](#arguments-pass-to-c-code-runner-)
-- [How to Compile And Execute C File Using C Code Runner](#how-to-compile-and-execute-c-file-using-c-code-runner-)
+- [All C Code Runner Commands ](#all-c-code-runner-commands-)
 - [Pre Requirements for C Code Runner](#pre-requirements-for-c-code-runner-)
 - [C Code Runner All Versions Download Links](#c-code-runner-all-versions-download-links-)
 
@@ -40,23 +40,24 @@ Single command instead of writing compilation and the execution command individu
 
 <a name="method-1"></a>
 ### Method 1 {Recommended Method}: [🔝](#table-of-contents)
-_Step 1: Download **C_Code_Runner.exe** file by clicking below download link._
 
-<a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Latest Version</a>
+_Step 1: Download **C_Code_Runner.zip** file by clicking below download link._
 
-> _Note 1: If you are getting any warning form Google drive during downloading. Then don't worry about it happening because this is an .exe type of file which is treated as dangerous file by Google drive. Download file anyway._
+<a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">Download Latest Version</a>
 
-_Step 2: Reach the file location in CMD where **C_Code_Runner.exe** file is downloaded._
+_Step 2: Extract the **c_code_runner.zip** file for getting **c_code_runner.exe** file_
 
-_Step 3: Run the below command in CMD._
+_Step 3: Reach the file location in CMD where **c_code_runner.exe** file is extracted._
+
+_Step 4: Run the below command in CMD._
 
 ```
 c_code_runner.exe --run Start_process
 ```
 
-_Step 4: Now you can delete the downloaded file._
+_Step 5: After process complete you can delete both the downloaded .zip and extracted .exe file form your system_
 
-_Step 5: Now you have to add **"C:\C Code Runner"** path to user environment variable._
+_Step 6: Now you have to add **"C:\C Code Runner"** path to user environment variable._
 
 > How to add path to Environment Variable:
 
@@ -72,7 +73,7 @@ _Step 5: Now you have to add **"C:\C Code Runner"** path to user environment var
 - _Step 10: Then again press ok._
 - _Now your path is added to environment variable._
 
-_Step 6: Verify installation, reopen CMD and run command given below._
+_Step 7: Verify installation, reopen CMD and run command given below._
 
 ```
 c_code_runner --about About
@@ -84,20 +85,20 @@ c_code_runner --about About
   <img alt="Output Image" src="https://raw.githubusercontent.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/main/Images/screen%20shot.png">
 </p>
 
-> _Note 2: If you are using any code editor having its own terminal like VScode then you have to restart the software to refresh it terminal._
+> _Note 1: If you are using any code editor having its own terminal like VScode then you have to restart the software to refresh it's terminal._
 
 > _If you got error the please retry the installation process or try second method._
 
 <a name="method-2"></a>
 ### Method 2 : [🔝](#table-of-contents)
 
-_Step 1: Download **C_Code_Runner.exe** file by clicking below download link._
+_Step 1: Download **C_Code_Runner.zip** file by clicking below download link._
 
-<a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download" style="color: black; text-decoration: none;">Download Latest Version</a>
+<a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">Download Latest Version</a>
 
-> _Note 3: If you are getting any warning form Google drive during downloading. Then don't worry about it happening because this is an .exe type of file which is treated as dangerous file by Google drive. Download file anyway._
+_Step 2: Extract the **c_code_runner.zip** file for getting **c_code_runner.exe** file_
 
-_Step 2: Copy and paste the file in the directory where you are working and now you can use the features of **C Code Runner** without any setup._
+_Step 3: Copy and paste the extracte **c_code_runner** file in the directory where you are currently working and now you can use the features of **C Code Runner** without any setup._
 
 ## Arguments Pass to C Code Runner [🔝](#table-of-contents)
 
@@ -110,7 +111,8 @@ _Step 2: Copy and paste the file in the directory where you are working and now 
 |  _--run_      |_Take 'Start_process' or 'start_process' as value_|_Start the setup process of C Code Runner_                 |
 |  _--version_  |_Take no input_                                   |_Show the current version of software_                     |
 
-## How to Compile And Execute C File Using C Code Runner [🔝](#table-of-contents)
+## All C Code Runner Commands [🔝](#table-of-contents)
+
 - _If you want to see help message. Use command given below and press enter._
 
 ```
@@ -146,9 +148,9 @@ c_code_runner --about About
 ```
 c_code_runner --version
 ```
-> _Note 4: Above commands work in case of method first of setup._
+> _Note 2: Above commands work in case of first method of setup._
 
-> _Note 5: If you are following method 2 then you have to just give relative path of **c_code_runner.exe** file to execute command if you copy paste the file in current working directory or else give absolute path to the **c_code_runner.exe** file to take use of it._
+> _Note 3: If you are following method 2 then you have to just give relative path of **c_code_runner.exe** file to execute command if you copy paste the file in current working directory or else give absolute path to the **c_code_runner.exe** file to take use of it._
 
 ```
 .\c_code_runner.exe --arguments
@@ -165,7 +167,7 @@ or
 
 ## C Code Runner All Versions Download Links [🔝](#table-of-contents)
 
-|Vesions         | Release Date |Download Link                                                                                                                 |
-|----------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-|_Latest Version_|2022-18-06    |<a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Latest Version</a>        |
-|_Version 1.0_   |2022-18-06    |<a href="https://drive.google.com/uc?id=1QvSeVv8UYtgz-amEek7iHxGBP7vxG6Q9&export=download">Download Version 1.0</a>           |
+|Vesions                                   |Maintance status|Release Date  |Last Update Release Date  |End of support   |Download Link                                                                                                                 |
+|------------------------------------------|----------------|--------------|--------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------|
+|_Latest Version {Recommended to download}_|Bugfix          |2022-18-06    |2022-19-06                |-----------------|<a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">Download Latest Version</a>        |
+|_Version 1.0_                             |Bugfix          |2022-18-06    |2022-19-06                |-----------------|<a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">Download Version 1.0</a>           |
