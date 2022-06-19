@@ -10,7 +10,6 @@
 - [About C Code Runner](#about-c-code-runner-)
 - [Benefits of Using C Code Runner](#benefits-of-using-c-code-runner-)
 - [Pre Requirements for C Code Runner](#pre-requirements-for-c-code-runner-)
-- [C Code Runner All Versions Download Links](#c-code-runner-all-versions-download-links-)
 
 ## About C Code Runner [🔝](#table-of-contents)
 
@@ -35,13 +34,6 @@ Single command instead of writing compilation and the execution command individu
 
 - _**gcc** compiler should be installed in your machine._
 - _gcc compiler path should be add to **environment variables**._
-
-## C Code Runner All Versions Download Links [🔝](#table-of-contents)
-
-|Vesions                                   |Maintance status|Release Date  |Last Update Release Date  |End of support   |Download Link                                                                                                                 |Documentation                                                                                                        |
-|------------------------------------------|----------------|--------------|--------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-|_Latest Version {Recommended to download}_|Bugfix          |2022-18-06    |2022-19-06                |-----------------|<a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">Download Latest Version</a>        |[Documntation](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki)                             |
-|_Version 1.0_                             |Bugfix          |2022-18-06    |2022-19-06                |-----------------|<a href="https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download">Download Version 1.0</a>           |[Version 1.0 Documentaion](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki/Version-1.0-Docs)|
 
 <p align="center">
     <strong>|| © <a href="https://github.com/DeveloperSwastik">DeveloperSwastik</a> ||<strong>
