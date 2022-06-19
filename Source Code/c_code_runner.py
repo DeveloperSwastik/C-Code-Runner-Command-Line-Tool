@@ -46,6 +46,8 @@ def about_display():
         else:
             time.sleep(0.6)
         i += 1
+    
+    sys.exit()
 
 
 def transfer_file():
@@ -58,11 +60,14 @@ def transfer_file():
             "*"*28,
             "\n"
         ]
+
         for statement in output:
             print(statement)
+
         sys.exit()
 
     os.system("cls")
+
     for i in range(5):
         dots = "."*i
 
@@ -110,8 +115,11 @@ def transfer_file():
             r"'C:\C_Code_Runner' to the environment variable""\n",
             "~"*64
         )
+        
     except FileNotFoundError:
         pass
+
+    sys.exit()
 
 
 if __name__ == "__main__":
@@ -202,7 +210,8 @@ if __name__ == "__main__":
                     f"CompilationError: There is error in compilation "
                     f"of {input_file}{input_file_extension}"
                 )
-                exit()
+
+                sys.exit()
 
             print(
                 "Execution Starts ....\n"
@@ -225,6 +234,7 @@ if __name__ == "__main__":
             print(
                 f"Execution time :{end_execution - start_execution}"
             )
+            
         else:
             print(
                 "------------------------------------\n\n"
@@ -236,3 +246,5 @@ if __name__ == "__main__":
                 "not exists ...\n\n"
                 "------------------------------------"
             )
+
+            sys.exit()
