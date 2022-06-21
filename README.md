@@ -2,6 +2,26 @@
   <img alt="Logo Image" src="https://raw.githubusercontent.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/main/Images/C%20Code%20Runner%20Logo.png">
 </p>
 
+***
+
+<p align="center">
+<a href="https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki">
+  <img alt="Home" src="https://cdn-icons-png.flaticon.com/128/1946/1946436.png" width='55px'>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki/Downloads">
+  <img alt="downloads" src="https://cdn-icons-png.flaticon.com/128/724/724933.png" width='55px'>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki/Version-1.0-Documentation">
+  <img alt="Documentations" src="https://cdn-icons-png.flaticon.com/128/2991/2991106.png" width='55px'>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki">
+</p>
+
+***
+
 # C Code Runner {Command Line Utility}
 > _Current version patch of utility is 1.0.1 [Download Latest Version](https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download)_
 
