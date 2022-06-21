@@ -23,7 +23,8 @@ Single command instead of writing compilation and the execution command individu
 - _**C Code Runner** Is **Open Source Project**. To View Code [Click Here](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/blob/main/Source%20Code/c_code_runner.py)._
 
 - _**C Code Runner** is only **Windows** friendly._
-
+ 
+> _For more details visit: [C Code Runner Wiki](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki)_
 ## Benefits of Using C Code Runner [🔝](#table-of-contents)
 
 - You have to write single statement for compilation and execution.
