@@ -13,7 +13,7 @@
   <img alt="downloads" src="https://cdn-icons-png.flaticon.com/128/724/724933.png" width='55px'>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki/Version-1.0-Documentation">
+<a href="https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki/Documentations">
   <img alt="Documentations" src="https://cdn-icons-png.flaticon.com/128/2991/2991106.png" width='55px'>
 </a>
 </p>
