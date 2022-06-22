@@ -38,7 +38,7 @@ Single command instead of writing compilation and the execution command individu
 
 - _**C Code Runner** is written in **Python** Programming Language._
 
-- _**C Code Runner** Is **Open Source Project**. To View Code [Click Here](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/blob/main/Source%20Code/c_code_runner.py)._
+- _**C Code Runner** Is **Open Source Project**. To View Code [Click Here](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/tree/main/Source%20Code)._
 
 - _**C Code Runner** is only **Windows** friendly._
  
