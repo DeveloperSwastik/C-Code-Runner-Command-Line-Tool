@@ -21,7 +21,7 @@
 ***
 
 # C Code Runner {Command Line Utility}
-> _Current version patch of utility is 1.0.1 [Download Latest Version](https://drive.google.com/uc?id=11OtYJ2jX9YkhWzaTVbSzEA9zHTe3xqxB&export=download)_
+> _Current version patch of utility is 1.1.0 [Download Latest Version](https://drive.google.com/uc?id=1pW5cLkGv6UqgBfVOxYXzwDJIYLij5uiK&export=download)_
 
 ## Table of Contents
 
