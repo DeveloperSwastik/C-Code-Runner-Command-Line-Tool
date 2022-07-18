@@ -78,7 +78,8 @@ def start_debugging():
             "*"*66,
             "\nError found:",
             "C Code Runner path is not add to environment variable.\n",
-            "Please add this path 'C:\\C Code Runner' to environment variable.\n",
+            "Please add this path 'C:\\C Code Runner' to environment "
+            "variable.\n",
             "*"*66,
             "\n",
             sep=""

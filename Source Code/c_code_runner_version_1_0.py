@@ -8,29 +8,32 @@ import sys
 def about_display():
     about_test = [
         "~"*113,
-        "    ###           ###      ###    ###     #######         ####     #   #   "
-        "#      #  #      #  #######    ####   ",
-        "   #    #        #    #   #   #   #  #    #               #   #   #     #  "
-        "# #    #  # #    #  #          #   #  ",
-        "  #             #        #     #  #   #   #               #    #  #     #  "
-        "#  #   #  #  #   #  #          #    # ",
-        "  #             #        #     #  #    #  #####           #####   #     #  "
-        "#   #  #  #   #  #  #####      #####  ",
-        "   #    #        #    #   #   #   #   #   #               #  #     #   #   "
-        "#    # #  #    # #  #          #  #   ",
-        "    ###            ###     ###    ####    #########       #    ##   ###    "
-        "#      #  #      #  #########  #    ##",
+        "    ###           ###      ###    ###     #######         ####    "
+        " #   #   #      #  #      #  #######    ####   ",
+        "   #    #        #    #   #   #   #  #    #               #   #   "
+        "#     #  # #    #  # #    #  #          #   #  ",
+        "  #             #        #     #  #   #   #               #    #  "
+        "#     #  #  #   #  #  #   #  #          #    # ",
+        "  #             #        #     #  #    #  #####           #####   "
+        "#     #  #   #  #  #   #  #  #####      #####  ",
+        "   #    #        #    #   #   #   #   #   #               #  #    "
+        " #   #   #    # #  #    # #  #          #  #   ",
+        "    ###            ###     ###    ####    #########       #    ## "
+        "  ###    #      #  #      #  #########  #    ##",
         "~"*113,
         "Type        : Command line utility",
         "Developer   : Swastik",
         "Version     : 1.0",
         "About       :",
-        "~ C Code Runner utility automate compilation and execution c program using gcc compiler in single line of command.",
+        "~ C Code Runner utility automate compilation and execution c program"
+        " using gcc compiler in single line of command.",
         "~ C Code Runner is only Windows friendly",
         "Requirement : ",
-        "~gcc compiler should be installed and path is added to environment variables",
+        "~gcc compiler should be installed and path is added to environment "
+        "variables",
         "For more details:",
-        "~Read documentation at 'https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool'",
+        "~Read documentation at 'https://github.com/DeveloperSwastik/C-Code-"
+        "Runner-Command-Line-Tool'",
         "\u00A9 DeveloperSwastik",
         "~"*113,
     ]
@@ -144,12 +147,18 @@ if __name__ == "__main__":
 
     parser.add_argument(
         '--about', type=str,
-        help="This argument take 'About' or 'about' as value and return the basic documentation",
+        help=(
+            "This argument take 'About' or 'about' as value "
+            "and return the basic documentation"
+        )
     )
 
     parser.add_argument(
         '--run', type=str,
-        help="This argument start the setup process by taking 'Start_process' or 'start_process' as value",
+        help=(
+            "This argument start the setup process by taking "
+            "'Start_process' or 'start_process' as value",
+        )
     )
 
     parser.add_argument(
