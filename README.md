@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo Image" src="https://raw.githubusercontent.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/main/Images/C%20Code%20Runner%20Logo.png">
+  <img alt="Logo Image" src="https://drive.google.com/uc?export=view&id=1zgWmvzfmzoJsn0x1QjTtX2vr6VnZnK_Q">
 </p>
 
 ***
